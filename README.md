@@ -1,6 +1,6 @@
 # 🏄‍♂️ <h1>Hi, I'm Saula, an <a href="https://linkedin.com/in/saula-s-738224185/">IT Professional</a>☺</h1>
 
-Dedicated IT Help Desk professional with a solid foundation in technical support and a strong educational background, including courses from MITx and CourseCareers. Proficient in implementing and managing IT systems such as osTicket and Active Directory in Azure environments. Certifications include CourseCareers IT Professional, with Google IT Support and CompTIA A+ certifications in progress. Recent projects involve cloud computing, network security, and troubleshooting virtual machines. Experienced in providing high-level support and customer service, with a track record of solving complex issues efficiently and improving IT workflows.
+Dedicated IT Help Desk professional with a solid foundation in technical support and a strong educational background, including courses CourseCareers. Proficient in implementing and managing IT systems such as osTicket and Active Directory in Azure environments. Certifications include CourseCareers IT Professional, with Google IT Support and CompTIA A+ certifications in progress. Recent projects involve cloud computing, network security, and troubleshooting virtual machines. Experienced in providing high-level support and customer service, with a track record of solving complex issues efficiently and improving IT workflows.
 
 ---
 
